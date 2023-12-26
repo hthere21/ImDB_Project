@@ -12,9 +12,7 @@ This project focuses on sentiment analysis using machine learning techniques. It
 - Required Python packages: nltk, scikit-learn, matplotlib, numpy
 
 Install the necessary packages using:
-
-```bash
-pip install nltk scikit-learn matplotlib numpy
+- pip install nltk scikit-learn matplotlib numpy
 
 ### 1. Installation
 Clone the repository:
